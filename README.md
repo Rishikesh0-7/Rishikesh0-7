@@ -13,9 +13,9 @@ Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/72826
 
 ### Stats
 [![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikesh0-7&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh0-7&layout=compact)](https://github.com/rishikesh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh0-7&layout=compact&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
