@@ -12,7 +12,7 @@ Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/72826
 - 💬 React me out on discord : [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
 
 
-[Stats](htts://github-readme-stats.vercel.app/api?username=rishikesh0-7)
+[Stats](htts://github-readme-stats.vercel.app/api?username=rishikesh)
 
 
 
