@@ -1,5 +1,7 @@
 ### Hi there 👋 , I'am Rishikesh
 
+![](https://komarev.com/ghpvc/?username=rishikesh0-7)
+
 
 Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
 
