@@ -8,7 +8,8 @@ Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/72826
 
 - 🇮🇳 I'm Rishikesh from India
 - ❤️ Python Lover
-- 🌟 Currently working on a [discors bot](https://dsc.gg/xtreme-bot)
+- 🌟 Currently working on a [discord bot](https://dsc.gg/xtreme-bot)
+- 💬 React me out on discord : [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
 
 
 
