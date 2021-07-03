@@ -1,7 +1,17 @@
 ### Hi there 👋 , I'am Rishikesh
 
 
-Contact me on discord [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
+Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
+
+
+### About Me 
+
+- 🇮🇳 I'm Rishikesh from India
+- ❤️ Python Lover
+- 🌟 Currently working on a [discors bot](https://dsc.gg/xtreme-bot)
+
+
+
 
 
 <!--
