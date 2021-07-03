@@ -1,5 +1,4 @@
-### Hi there 👋
-##I am Rishikesh
+### Hi there 👋 , I'am Rishikesh
 
 
 Contact me on discord [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
