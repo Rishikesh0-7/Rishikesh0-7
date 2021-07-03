@@ -18,6 +18,9 @@ Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/72826
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh0-7&layout=compact&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
 
 
+### Support
+- Add my [discord bot](https://dsc.gg/xtreme-bot) will support me a lot..
+
 
 
 
