@@ -6,19 +6,19 @@
 Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
 
 
-### About Me 
+### ✍️ ABOUT ME 
 
 - 🇮🇳 I'm Rishikesh from India
 - ❤️ Python Lover
 - 🌟 Currently working on a [discord bot](https://dsc.gg/xtreme-bot)
 - 💬 Reach me out on discord : [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
 
-### Stats
+### 📄 STATS
 [![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikesh0-7&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh0-7&layout=compact&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
 
 
-### Support
+### 🤞 SUPPORT
 - Adding my [discord bot](https://dsc.gg/xtreme-bot) will support me a lot..
 
 
