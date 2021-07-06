@@ -4,7 +4,9 @@
 <a href="https://github.com/Rishikesh0-7">
 <img src="https://img.shields.io/badge/Follow-GitHub-green?logo=github">
 </a>
-
+<a href="https://discord.com/users/728260210464129075">
+<img src="https://img.shields.io/badge/Discord-%C2%B0%E2%80%A2%7BR%7Dishikesh%E2%84%A2%230001-406da2">
+</a>
 
 Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
 
