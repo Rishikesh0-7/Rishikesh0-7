@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'am Rishikesh
 
 ![](https://komarev.com/ghpvc/?username=rishikesh0-7)
-<a href="https://github.com">
+<a href="https://github.com/Rishikesh0-7">
 <img src="https://img.shields.io/badge/Follow-GitHub-green?logo=github">
 </a>
 
