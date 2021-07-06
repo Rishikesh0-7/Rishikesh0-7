@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rishikesh0-7)
 <a href="https://github.com/users/Rishikesh">
-<img scr="https://img.shields.io/badge/Follow-GitHub-green?logo=github"/>
+<img scr="https://img.shields.io/badge/Follow-GitHub-green?logo=github">
 </a>
 
 
