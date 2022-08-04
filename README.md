@@ -12,7 +12,7 @@
 
 ### ✍️ ABOUT ME 
 
-- 🇮🇳 I'm Rishikesh from India
+- 😎 A boy from India.
 - ❤️ Python Lover
 - 🤪 Tech Freak
 - 💬 Reach me via email rishikeshanandh@gmail.com
@@ -22,7 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh0-7&layout=compact&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
 
 
+### 💻 PROJECTS
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh0-7&repo=/Flappy-Bird-2.0)](https://github.com/Rishikesh0-7/Flappy-Bird-2.0)
 
 
 
