@@ -8,14 +8,13 @@
 <img src="https://img.shields.io/badge/Discord-%C2%B0%E2%80%A2%7BR%7Dishikesh%E2%84%A2%230001-406da2">
 </a>
 
-Contact me on Discord [°•{R}ishikesh™#0001](https://discord.com/users/728260210464129075)
 
 
 ### ✍️ ABOUT ME 
 
 - 🇮🇳 I'm Rishikesh from India
 - ❤️ Python Lover
-- 🤪 Tech Freack
+- 🤪 Tech Freak
 - 💬 Reach me via email rishikeshanandh@gmail.com
 
 ### 📄 STATS
