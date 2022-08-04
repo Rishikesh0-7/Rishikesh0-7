@@ -24,7 +24,7 @@
 
 ### 💻 PROJECTS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh0-7&repo=/Flappy-Bird-2.0)](https://github.com/Rishikesh0-7/Flappy-Bird-2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh0-7&repo=Flappy-Bird-2.0)](https://github.com/Rishikesh0-7/Flappy-Bird-2.0)
 
 
 
