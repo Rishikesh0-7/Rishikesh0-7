@@ -17,6 +17,10 @@
 - 🤪 Tech Freak
 - 💬 Reach me via email rishikeshanandh@gmail.com
 
+
+## 🔗 LANGUAGES AND TOOLS
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 📄 STATS
 [![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishikesh0-7&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh0-7&layout=compact&theme=dracula)](https://github.com/rishikesh/github-readme-stats)
