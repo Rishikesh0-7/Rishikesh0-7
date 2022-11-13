@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning Artificial Intelligence 
 - ❣️ Python Lover
 - ⚡️ Tech Freak
-- 💻 Visit my [Personal Website](https://rishikesh0-7.github.io]
+- 💻 Visit my [Personal Website](https://rishikesh0-7.github.io)
 
 
 ## Languages and Tools
